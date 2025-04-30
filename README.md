@@ -23,7 +23,7 @@
 - emotion_korTran (한국어 감정 분류 학습용 데이터셋)
 
 ## 프로젝트 구조
-
+.
 ├── check_sentiment_labels.ipynb
 ├── emotion_korTran
 │   ├── about_dataset.ipynb

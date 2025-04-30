@@ -23,6 +23,7 @@
 - emotion_korTran (한국어 감정 분류 학습용 데이터셋)
 
 ## 프로젝트 구조
+```
 .
 ├── check_sentiment_labels.ipynb
 ├── emotion_korTran
@@ -57,7 +58,7 @@
 ├── train.py
 ├── 운수좋은날_감정예측결과.csv
 └── 운수좋은날.txt
-
+```
 
 
 ## 주요 결과

@@ -18,17 +18,15 @@
 
 3. **감정 분류 모델 학습**
 
-   * `emotion_korTran` 데이터셋(41만 문장)으로 Transformer 모델 학습
-   * 6가지 감정 범주 분류 (joy, sadness, anger, fear, surprise, love)
+   * `emotion_korTran` 데이터셋(41만 문장)으로 Transformer 모델 학습 - 6가지 감정 범주 분류 (joy, sadness, anger, fear, surprise, love)
 
 4. **문장 단위 감정 예측**
 
    * 학습된 모델로 「운수 좋은 날」 각 문장의 감정을 예측
-   * softmax score가 0.4 미만인 예측은 신뢰도 낮아 제외
 
 5. **감정 결과의 키워드 귀속**
 
-   * 예측된 감정 레이블을 해당 문장에 포함된 키워드에 귀속
+   * 예측된 감정 레이블을 해당 문장에 포함된 키워드([2번] - TF-IDF기반으로 추출한 키워드)에 귀속
    * 키워드별로 감정 분포 비율을 계산하여 6차원 벡터 생성
 
 6. **정량 분석 및 시각화**

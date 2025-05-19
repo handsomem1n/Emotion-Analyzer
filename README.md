@@ -5,6 +5,8 @@
 
 <img width="840" alt="Transformer 와 TF-IDF 를 활용한 문학 작품 감정 분석" src="https://github.com/user-attachments/assets/7d4bc802-bdde-4d4a-8980-56827be80d3e" />
 
+## Keywords : #Transformer, #TF-IDF, #감정분석, #자연어처리, #감정귀속
+
 ---
 
 ## ⚙️ Project Workflow

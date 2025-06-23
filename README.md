@@ -6,7 +6,7 @@
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/781e85fb-094b-4d05-bee5-e170f2d910d6" />
 
 
-## Keywords : #Transformer #TF-IDF #감정분석 #자연어처리 #감정귀속
+## Keywords : #Deep Learning #NLP # Emotion Analysis
 
 ---
 

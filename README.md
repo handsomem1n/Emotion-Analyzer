@@ -7,7 +7,7 @@
 
 
 
-<img width="938" alt="image" src="https://github.com/user-attachments/assets/781e85fb-094b-4d05-bee5-e170f2d910d6" />
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/781e85fb-094b-4d05-bee5-e170f2d910d6" />
 
 
 ## Keywords : #Deep Learning #NLP # Emotion Analysis
